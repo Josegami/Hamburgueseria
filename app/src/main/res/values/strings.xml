@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hamburgueseria</string>
+    <string name="p1">Pantalla Principal</string>
+    <string name="p2">Pantalla Ingredientes</string>
+    <string name="p3">Pantalla Pedido</string>
+    <string name="p4">Pantalla Historial</string>
+</resources>
